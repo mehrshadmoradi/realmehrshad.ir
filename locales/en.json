@@ -1,0 +1,114 @@
+{
+  "menu": {
+    "name": "Mehrshad",
+    "home": "Home",
+    "about": "About",
+    "resume": "Resume",
+    "skills": "Skills",
+    "projects": "Projects",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "content": {
+    "project": {
+      "descriptions": {
+        "todo": "A todo app with features like filtering, notifications, strong validation, and more.",
+        "weatherApp": "A simple weather app showing the searched city's current weather status.",
+        "khashimelk": "A schematic real estate website."
+      }
+    },
+    "about": {
+      "title": "About Me",
+      "main": "I am a passionate frontend developer.",
+      "text": " As a self-taught programmer, I learned coding via online resources, youtube and surfing the net. I learned English on my own too. I love solving problems and creating efficient solutions for every challenge. My goal is to continuously grow, innovate, and contribute to the tech industry.",
+      "keys": {
+        "name": "Name:",
+        "dob": "Date of Birth:",
+        "address": "Address:",
+        "email": "Email",
+        "phone": "Phone:"
+      },
+      "values": {
+        "name": "Mehrshad",
+        "dob": "7 April 2000",
+        "address": "Iran, Gilan, Rasht",
+        "email": "mehrshadmoradi2079@gmail.com",
+        "phone": "+989909066113"
+      }
+    },
+    "resume": {
+      "title": "My Resume",
+      "download": "Download Resume",
+      "keys": {
+        "frontend": "frontend:",
+        "projects": "Projects:",
+        "workExperience": "work experience:",
+        "skills": "skills:",
+        "softSkills": "soft skills:"
+      },
+      "values": {
+        "frontend": "about 4 years of experience specializing in React.js, Next.js, and Angular.",
+        "projects": "Weather App (React.js), Real Estate Website (React.js), Rich-Featured To-Do App (Next.js, TypeScript).",
+        "workExperience": "Remote frontend developer at Dayan and Pishtazteb(Tehran) and various other  projects.",
+        "skills": "JavaScript (ES6+), TypeScript, Next.js, React.js, Angular, Tailwind CSS, API integration, UI/UX development.",
+        "softSkills": "Problem-solving, self-learning, adaptability, teamwork, attention to detail."
+      }
+    },
+    "skills": {
+      "title": "Skills"
+    },
+    "projects": {
+      "title": "Projects"
+    },
+    "services": {
+      "title": "Services",
+      "subtitle": "how i can help you",
+      "text": {
+        "service1": "Developing modern, fast, and scalable web applications with React.js, Next.js, and Angular.",
+        "service2": "Building responsive, user-friendly, and optimized UI/UX experiences.",
+        "service3": "Integrating APIs, handling state management, and optimizing performance.",
+        "service4": "Code refactoring, debugging, and improving existing applications.",
+        "service5": "Providing consultation and solutions for frontend challenges."
+      }
+    },
+
+    "contact": {
+      "title": "Cantact Me"
+    }
+  },
+  "form": {
+    "fullName": "Full Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "message": "Message",
+    "placeHolder": {
+      "fullName": "Enter your full name",
+      "email": "Enter your email address",
+      "phoneNumber": "Enter your phone number",
+      "message": "Write your message here"
+    },
+    "submit": {
+      "submit": "Send message",
+      "sending": "Sending..."
+    },
+    "messages": {
+      "success": "your message was sent successfully",
+      "error": "an error occurred while sending your message, please try again later or if you are using 'VPN', turn it off."
+    },
+    "errors": {
+      "fullName": "Full Name is required",
+      "email": {
+        "required": "Email is required",
+        "invalidEmail": "Invalid Email"
+      },
+      "phoneNumber": {
+        "required": "Phone Number is required",
+        "invalidNumber": "Phone Number must be valid"
+      },
+      "message": {
+        "required": "Message is required",
+        "minLength": "Message must be at least 10 characters long"
+      }
+    }
+  }
+}
